@@ -25,7 +25,11 @@ dicom|BLOB|DICOM data
 images|ARRAY PICTURE|rendered images (PNG format)
 tags|TEXT|JSON representation of all tags
 
-###Example result for ``tags``
+Example result for ``images``
+
+![1](https://cloud.githubusercontent.com/assets/1725068/20998248/db2a3e4e-bd4f-11e6-80c6-137af92602f4.png)
+
+Example result for ``tags``
 
 ```json
 [
